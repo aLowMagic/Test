@@ -1,1 +1,3 @@
-Hello world, it's thePrestige_yf 's first github file.
+public static void main(){
+	system.out.println("test");
+}
